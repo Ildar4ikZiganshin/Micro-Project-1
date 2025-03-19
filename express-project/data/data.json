@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Toyota",
+    "description": "Toyota is a Japanese automotive manufacturer known for its reliable, fuel-efficient, and affordable vehicles."
+  },
+  {
+    "id": 2,
+    "name": "BMW",
+    "description": "BMW is a German luxury automaker famous for its high-performance vehicles and cutting-edge technology."
+  },
+  {
+    "id": 3,
+    "name": "Tesla",
+    "description": "Tesla is an American electric vehicle manufacturer known for its innovative EVs and autonomous driving features."
+  },
+  {
+    "id": 4,
+    "name": "Ford",
+    "description": "Ford is an American automaker famous for its trucks, SUVs, and iconic muscle cars like the Mustang."
+  },
+  {
+    "id": 5,
+    "name": "Ferrari",
+    "description": "Ferrari is an Italian luxury sports car manufacturer synonymous with speed, performance, and exclusivity."
+  },
+  {
+    "id": 6,
+    "name": "Hyundai",
+    "description": "Hyundai is a South Korean automaker known for producing affordable, stylish, and feature-packed vehicles."
+  }
+]
